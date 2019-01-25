@@ -33,7 +33,7 @@ class ArticlesController < ApplicationController
 
     def show
     end
-
+ 
     def destroy
         @article.destroy
         flash[:notice] = "Article was successfully destroyed"
