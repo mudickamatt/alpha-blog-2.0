@@ -1,1 +1,2 @@
-This is the first repository for the alpha-blog app of the Complete Ruby on Rails Developer Course
+View my blog app on Heroku.
+https://alpha-blog-mmudicka.herokuapp.com/
